@@ -1,0 +1,16 @@
+#mainContainer{width:1000px;height: 300px;margin-right: auto;margin-left: auto;}
+.leftColumn, .centerColumn, .rightColumn{float:left;text-align: center;}
+.leftColumn{width:300px;}
+.centerColumn{width:400px;}
+.rightColumn{width:300px;}
+#holder { 
+	border: 10px dashed #ccc; 
+	width: 280px; 
+	height: 300px; 
+	margin: 20px auto;
+	display: flex;
+	justify-content: center; /* align horizontal */
+	align-items: center; /* align vertical */
+	text-align: center;
+}
+#holder.hover { border: 10px dashed #333; }

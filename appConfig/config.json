@@ -1,0 +1,10 @@
+{
+	"pathToConfigFile":"appConfig",
+	"configFileName":"config.json",
+	"osSeparator":"/",
+	"maxProjectHistory":5,
+	"editors":["SublimeText3"],
+	"pathsToEditors":["C:/Program Files/Sublime Text 3/sublime_text.exe"],
+	"defaultEditor":"SublimeText3",
+	"pathToDefaultEditorExecutable":"C:/Program Files/Sublime Text 3/sublime_text.exe"
+}
